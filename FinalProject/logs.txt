@@ -1,0 +1,4 @@
+[2023.07.2023 - 19:42:46] Addressbook has been loaded!
+[2023.07.2023 - 19:43:50] Addressbook has been saved!
+[2023.07.2023 - 19:47:22] Contact Vasiliska has been added.
+[2023.07.2023 - 19:47:22] Addressbook has been saved!
