@@ -63,7 +63,6 @@ class Operations(UserList):
             result = "_" * 50 + "\n" + f"Name: {record.name.value} \nPhones: {', '.join(record.phones.value)} \nBirthday: {birth} \nEmail: {record.email.value} \nStatus: {record.status.value} \nNote: {record.note.value}\n" + "_" * 50
             print(result)
 
-
     def edit(self):
         contact_name = input('Contact name: ')
         parameter = input('Which parameter to edit(name, phones, birthday, status, email, note): ').strip()
@@ -177,7 +176,6 @@ class AddressBook(Operations):
         
         return "_" * 50 + "\n" + f"Name: {self.data[self.counter].name.value} \nPhones: {', '.join(self.data[self.counter].phones.value)} \nBirthday: {str_birth} \nEmail: {self.data[self.counter].email.value} \nStatus: {self.data[self.counter].status.value} \nNote: {self.data[self.counter].note.value}\n" + "_" * 50
 
-
     def __iter__(self):
         return self
 
@@ -186,7 +184,6 @@ class AddressBook(Operations):
 
     def __getitem__(self, index):
         return self.data[index]
-
 
 
 class Storage:

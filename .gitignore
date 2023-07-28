@@ -150,3 +150,24 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+backup/FinalProjectCore_fromMentor.zip
+backup/stage1/__main__.py
+backup/stage1/AddressBook.py
+backup/stage1/auto_save.bin
+backup/stage1/Bot.py
+backup/stage1/info.py
+backup/stage1/logs.txt
+backup/stage2/__main__.py
+backup/stage2/AddressBook.py
+backup/stage2/auto_save.bin
+backup/stage2/Bot.py
+backup/stage2/info.py
+backup/stage2/logs.txt
+backup/Ready/FinalProject/__main__.py
+backup/Ready/FinalProject/AddressBook.bin
+backup/Ready/FinalProject/AddressBook.py
+backup/Ready/FinalProject/Bot.py
+backup/Ready/FinalProject/info.py
+backup/Ready/FinalProject/logs.txt
+backup/Ready/UML-AddressbookBot.pdf
+backup/Ready/UML.drawio
